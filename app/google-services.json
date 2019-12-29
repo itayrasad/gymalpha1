@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "34154949617-a5n2k3icoh731ie2mumoc9mu4mk6qcs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphagym1",
+            "certificate_hash": "6c785120645ebc898bd2a9efa8d7d1453667b308"
+          }
+        },
+        {
           "client_id": "34154949617-ocofbujnhrqt43jj4hr0509p44jpjst3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
