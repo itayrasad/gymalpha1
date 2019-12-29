@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34154949617",
+    "firebase_url": "https://alphagym1-1929c.firebaseio.com",
+    "project_id": "alphagym1-1929c",
+    "storage_bucket": "alphagym1-1929c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34154949617:android:a51d505446c84cb2d73250",
+        "android_client_info": {
+          "package_name": "com.example.alphagym1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34154949617-ocofbujnhrqt43jj4hr0509p44jpjst3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alphagym1",
+            "certificate_hash": "2fb0e89ce6ed3e1be760f7234fda1fa2f0dbffee"
+          }
+        },
+        {
+          "client_id": "34154949617-rmp96ecphhlklmc6e9qrodhbjr5q9kl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7GyX8WaqNazM8WihtfaiBmXIdxEFcvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34154949617-rmp96ecphhlklmc6e9qrodhbjr5q9kl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
